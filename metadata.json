@@ -1,0 +1,6 @@
+{
+  "name": "Aai Baba TV Companion",
+  "description": "आई-बाबांसाठी सोपा, प्रेमाचा आणि सुलभ टीव्ही सोबती — Samsung Smart TV व Jio Set-Top Box सह मराठी मनोरंजन, भक्ती, जुनी गाणी आणि आवाजाद्वारे शोध.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
